@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img width="70%" height="auto" src="https://github.com/muhamad-ramadhani/mantra/assets/72949170/7cf7f452-2738-4906-8b0f-d0b60533100b">
+  <img width="100%" height="auto" src="https://github.com/muhamad-ramadhani/mantra/assets/72949170/7cf7f452-2738-4906-8b0f-d0b60533100b">
 </p>
 
 # MANTRA TESTNET PHASE 1
